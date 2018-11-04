@@ -1,4 +1,4 @@
-FlappyBirdClone
+FlapPy-Bird
 ===============
 
 A Flappy Bird Clone made using [python-pygame][1]
