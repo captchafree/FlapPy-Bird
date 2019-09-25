@@ -1,3 +1,5 @@
+This learner uses [this flappy bird implementation](https://github.com/sourabhv/FlapPyBird) to play the game.
+
 FlapPy-Bird
 ===============
 
@@ -10,7 +12,7 @@ How-to
 
 2. Install PyGame 1.9.X from [here](http://www.pygame.org/download.shtml)
 
-3. Clone this repository: `https://github.com/jbeck18/FlapPy-Bird.git` or click `Download ZIP` in right panel and extract it.
+3. Clone this repository: `https://github.com/sourabhv/FlapPyBird` or click `Download ZIP` in right panel and extract it.
 
 4. Run `python flappy.py` from the repo's directory
 
